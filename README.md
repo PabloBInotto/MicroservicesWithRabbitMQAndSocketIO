@@ -4,6 +4,8 @@ We will use NodeJs for the backend application. For improving the performance, w
 and we will write microservice as a consumer. We will send updated stock data by using SocketIO to the clients. 
 For front-end application, we will use Angular 9
 
+https://medium.com/swlh/real-time-exchange-information-with-microservices-and-nodejs-e6bf6623bca6
+
 Today we will talk about real-time information used in all areas of social life. Speed ​​is the most important thing in the new technology century. In this article, we will try to informed customers who buy the stock papers when the price changed. It should be as fast and accurate as possible.
 You can listen to the radio to get information about the exchange news once in a day like above the yellow taxi radio. But if you want to learn something in a real-time, you have to do more then this. You have to use technology. We will use “Socket.IO” in this example.
 “There is more to life than simply increasing its speed.”
